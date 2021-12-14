@@ -13,8 +13,8 @@ on:
       - main.py
 
 env:
-  GITHUB_NAME: superleeyom
-  GITHUB_EMAIL: 635709492@qq.com
+  GITHUB_NAME: ZhaoGui
+  GITHUB_EMAIL: 562953985@qq.com
 
 jobs:
   sync:
