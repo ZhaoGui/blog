@@ -5,13 +5,11 @@ import os
 from github import Github
 
 MD_HEAD = """**<p align="center">[Leeyom's Blog](https://blog.leeyom.top)</p>**
-**<p align="center">用于记录一些幼稚的想法和脑残的瞬间~</p>**
+**<p align="center"北林有涧 独寐寤歌~</p>**
 
 ## 联系方式
-- Twitter：[@super_leeyom](https://twitter.com/super_leeyom)
-- Telegram：[@super_leeyom](https://t.me/super_leeyom)
-- Email：[leeyomwang@163.com](mailto:leeyomwang@163.com)
-- Blog：[https://blog.leeyom.top](https://blog.leeyom.top)
+- Email：[alan.gui@foxmail.com](mailto:alan.gui@foxmail.com)
+- Blog：[https://zhaogui.github.io](https://zhaogui.github.io)
 """
 
 BACKUP_DIR = "backup"
